@@ -1,7 +1,7 @@
 ![Google Maps Extractor Featured Image](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/google-maps-scraper-feautred-image.png)
 
 <div align="center" style="margin-top: 0;">
-  <h1>✨ Most Popular Google Maps Scraper on GitHub 🤖</h1>
+  <h1>Get the Google Maps Leads You Want — Without Breaking the Bank 🤖</h1>
 </div>
 <p align="center">
   <a href="#">
@@ -19,10 +19,42 @@
 </p>
 
 ---
+Google Maps Extractor gets you the Google Maps leads you want — names, phones, websites, **emails** — without paying a fortune.
 
-Google Maps Extractor helps you get leads from Google Maps. 
+Most Popular Google Maps Scraper App on GitHub, with 3.6K+ stars.
 
-Loved by business owners and developers — the Most Popular Google Maps Scraper App on GitHub, with 3.5K+ stars.
+<p align="center">
+  <a href="https://www.omkar.cloud/google-maps-extractor/download">
+    <img alt="Download the App — Get 100K Free Leads" src="https://img.shields.io/badge/%F0%9F%91%89%20Download%20the%20App-Get%20100K%20Free%20Leads-2ea44f?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center"><b>No credit card. 200 free searches every month.</b></p>
+
+
+## 🌍 Public data. 👿 High prices
+
+You need customers. Google Maps has them.
+
+You want the list. With emails. In bulk.
+
+Apify and Outscraper charge a fortune 💸 for it. For data that costs them nothing.
+
+That's wrong 😠.
+
+<!-- SB7: GUIDE → PLAN → SUCCESS → CTA -->
+
+Use our Google Maps Extractor Desktop App to get more Google Maps leads and 🤝 reach your customers .
+
+Without having to empty your pockets 😎.
+
+![GIF of Google Maps Extractor Visit, Highlight Keyword, Run, See Results](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/demo.gif)
+
+<p align="center">
+  <a href="https://www.omkar.cloud/google-maps-extractor/download">
+    <img alt="Download the App — Get 100K Free Leads" src="https://img.shields.io/badge/%F0%9F%91%89%20Download%20the%20App-Get%20100K%20Free%20Leads-2ea44f?style=for-the-badge" />
+  </a>
+</p>
 
 ## ⚡ Benefits
 
@@ -261,7 +293,7 @@ You're a buisness owner — we know how hard getting customers is. So we offer f
 
 ## Love It? [Star It ⭐!](https://github.com/omkarcloud/google-maps-scraper)
 
-Star the repo ⭐ and become a star hero!
+Star the repo ⭐ and become my star hero!
 
 It's just 1 click, but it means the world to me.
 
